@@ -3,14 +3,14 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    let hash = new Set();
+    let hash = [];
     
     for (let i = 0; i < nums.length; i++) {
-        if (hash.has(nums[i])) {
+        if (hash.includes(nums[i])) {
             nums.splice(i, 1);
             i--
         } else {
-            hash.add(nums[i]);
+            hash.push(nums[i]);
         }
     }
     
