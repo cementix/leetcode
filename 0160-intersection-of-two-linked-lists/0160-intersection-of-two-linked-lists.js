@@ -12,23 +12,28 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function(headA, headB) {
-    let nodes = new Set();
+    let nodes = []
     
-    // Проходим по первому списку и сохраняем все узлы в Set
-    let currentA = headA;
-    while (currentA !== null) {
-        nodes.add(currentA);
-        currentA = currentA.next;
-    }
-
-    // Проходим по второму списку и проверяем, есть ли узел в Set
-    let currentB = headB;
-    while (currentB !== null) {
-        if (nodes.has(currentB)) {
-            return currentB; // Возвращаем точку пересечения
+    let a = headA
+    let b = headB
+    
+    while (a !== null) {
+        if (nodes.includes(a)) {
+            return a
+        } else {
+            nodes.push(a)
+            a = a.next
         }
-        currentB = currentB.next;
     }
-
-    return null; // Если пересечения нет
+    
+    while (b !== null) {
+        if (nodes.includes(b)) {
+            return b
+        } else {
+            nodes.push(b)
+            b = b.next
+        }
+    }
+    
+    return null
 };
