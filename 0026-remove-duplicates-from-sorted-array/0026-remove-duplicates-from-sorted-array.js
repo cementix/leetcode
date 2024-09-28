@@ -4,7 +4,7 @@ var removeDuplicates = function(nums) {
     
     for (let i = 1; i < nums.length; i++) {
         if (nums[i] !== left) {
-            nums.splice(k, 1, nums[i])
+            nums[k] = nums[i]
             k++
             left = nums[i]
         }
