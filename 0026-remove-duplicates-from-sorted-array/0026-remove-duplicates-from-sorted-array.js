@@ -1,18 +1,14 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var removeDuplicates = function(nums) {
-    let hash = [];
+    let left = nums[0]
+    let k = 1
     
-    for (let i = 0; i < nums.length; i++) {
-        if (hash.includes(nums[i])) {
-            nums.splice(i, 1);
-            i--
-        } else {
-            hash.push(nums[i]);
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] !== left) {
+            nums.splice(k, 1, nums[i])
+            k++
+            left = nums[i]
         }
     }
     
-    return nums.length;
+    return k
 };
