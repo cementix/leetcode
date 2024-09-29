@@ -1,27 +1,13 @@
-// O(n) speed
-// O(1) memory
-
 var majorityElement = function (nums) {
-    let longest = { times: 0, number: null }
-    let pointer = 0
+    let count = 0;
+    let candidate = 0;
 
-    nums.sort((a, b) => a - b)
-
-    while (pointer < nums.length) {
-        let count = 0
-
-        while(nums[pointer] === nums[pointer + 1]) {
-            count++
-            pointer++
+    for (let num of nums) {
+        if (count === 0) {
+            candidate = num;
         }
-
-        if (count >= longest.times) {
-            longest.times = count
-            longest.number = nums[pointer]
-        }
-
-        pointer++
+        count += (num === candidate) ? 1 : -1;
     }
 
-    return longest.number
+    return candidate;
 };
