@@ -1,16 +1,16 @@
 var rotate = function (nums, k) {
     k = k % nums.length
-    const temp = []
-
-    for (let i = 0; i < k; i++) {
-        temp[i] = nums[nums.length - k + i]
+    
+    const reverse = (l, r) => {
+        while (l < r) {
+            [nums[l], nums[r]] = [nums[r], nums[l]]
+            l++
+            r--
+        }
     }
 
-    for (let i = k; i < nums.length; i++) {
-        temp[i] = nums[i - k]
-    }
+    nums.reverse()
 
-    for (let i = 0; i < nums.length; i++) {
-        nums[i] = temp[i]
-    }
+    reverse(0, k - 1)
+    reverse(k, nums.length - 1)
 };
