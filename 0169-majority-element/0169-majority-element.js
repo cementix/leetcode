@@ -1,21 +1,26 @@
-// O(n) space
-// O(n) memory
+// O(n) speed
+// O(1) memory
 
 var majorityElement = function (nums) {
-    const hash = {}
-    let longest = { times: 0, number: 0 }
+    let longest = { times: 0, number: null }
+    let pointer = 0
 
-    for (let i = 0; i < nums.length; i++) {
-        if (hash[nums[i]]) {
-            hash[nums[i]] += 1
+    nums.sort((a, b) => a - b)
 
-        } else {
-            hash[nums[i]] = 1
+    while (pointer < nums.length) {
+        let count = 0
+
+        while(nums[pointer] === nums[pointer + 1]) {
+            count++
+            pointer++
         }
-        if (hash[nums[i]] > longest.times) {
-            longest.times = hash[nums[i]]
-            longest.number = nums[i]
+
+        if (count >= longest.times) {
+            longest.times = count
+            longest.number = nums[pointer]
         }
+
+        pointer++
     }
 
     return longest.number
