@@ -1,8 +1,4 @@
 var merge = function(nums1, m, nums2, n) {
-    if (m === 0 && n === 1) {
-        nums1[m] = nums2[n - 1]
-        return
-    }
     
    let second = nums1.length - 1
    let first = m - 1
