@@ -4,26 +4,18 @@
  * @return {number}
  */
 var canCompleteCircuit = function(gas, cost) {
-    let starting = 0
-    let pointer = 0
-    let total = 0
+    let start = 0, totalGas = 0, totalCost = 0, tank = 0;
 
-    let totalGas = 0
-    let totalCost = 0
+    for (let i = 0; i < gas.length; i++) {
+        totalGas += gas[i];
+        totalCost += cost[i];
+        tank += gas[i] - cost[i];
 
-    while(pointer < cost.length) {
-        total += gas[pointer]
-        total -= cost[pointer]
-
-        totalGas += gas[pointer]
-        totalCost += cost[pointer]
-
-        if (total < 0) {
-            starting = pointer + 1
-            total = 0
+        if (tank < 0) {
+            start = i + 1;
+            tank = 0;
         }
-        pointer++
     }
- 
-    return totalGas >= totalCost ? starting : -1;
+
+    return totalGas >= totalCost ? start : -1;
 };
