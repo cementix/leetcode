@@ -3,6 +3,17 @@
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    const array = s.split(' ').filter((word) => word.length > 0)
-    return array[array.length - 1].length
+    let length = 0
+    let found = false
+
+    for (let i = s.length - 1; i >= 0; i--) {
+            if (s[i] !== " ") {
+                length++
+                found = true
+            } else if (s[i] === " " && found === true) {
+                break
+            }
+    }
+
+    return length
 };
