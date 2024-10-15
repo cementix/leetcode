@@ -73,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/cementix/leetcode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/cementix/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
