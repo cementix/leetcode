@@ -1,8 +1,12 @@
 var removeElement = function(nums, val) {
-    for (let i = nums.length - 1; i >= 0; i--) {
-        if (nums[i] === val) {
-            nums.splice(i, 1)
+    let i = 0; // Slow pointer to track the position of the non-val elements
+
+    for (let j = 0; j < nums.length; j++) {
+        if (nums[j] !== val) {
+            nums[i] = nums[j]; // Move the non-val element to the i-th position
+            i++;
         }
     }
-    return nums.length
+
+    return i; // i will be the new length of the array without `val`
 };
