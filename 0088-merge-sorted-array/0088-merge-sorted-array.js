@@ -1,17 +1,25 @@
 var merge = function(nums1, m, nums2, n) {
-    
-   let second = nums1.length - 1
-   let first = m - 1
-   n--
-    
-    while(n >= 0) {
-        if (first >= 0 && nums1[first] > nums2[n]) {
-            nums1[second] = nums1[first]
-            first--
+    // Start from the end of both arrays
+    let i = m - 1; // Last element in nums1 (excluding the extra zeros)
+    let j = n - 1; // Last element in nums2
+    let k = m + n - 1; // Last position in nums1
+
+    // Compare elements from the back of both arrays and place them in nums1
+    while (i >= 0 && j >= 0) {
+        if (nums1[i] > nums2[j]) {
+            nums1[k] = nums1[i];
+            i--;
         } else {
-            nums1[second] = nums2[n]
-            n--
+            nums1[k] = nums2[j];
+            j--;
         }
-        second--
+        k--;
+    }
+
+    // If nums2 still has elements left, place them in nums1
+    while (j >= 0) {
+        nums1[k] = nums2[j];
+        j--;
+        k--;
     }
 };
