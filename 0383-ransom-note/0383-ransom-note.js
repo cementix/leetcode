@@ -6,27 +6,18 @@
 var canConstruct = function(ransomNote, magazine) {
     const hash = {}
 
-    for (const letter of ransomNote) {
-        if (hash[letter]) {
-            hash[letter].ransomNote++
-        } else {
-            hash[letter] = {ransomNote: 1, magazine: 0}
-        }
-    }
-
+    // Count letters in magazine
     for (const letter of magazine) {
-        if (hash[letter]) {
-            hash[letter].magazine++
-        } else {
-            hash[letter] = {ransomNote: 0, magazine: 1}
-        }
+        hash[letter] = (hash[letter] || 0) + 1;
     }
 
-    for (const letter of Object.keys(hash)) {
-        if (hash[letter].ransomNote > hash[letter].magazine) {
+    // Check if ransomNote can be constructed from magazine
+    for (const letter of ransomNote) {
+        if (!hash[letter]) {
             return false;
         }
+        hash[letter]--;
     }
 
-    return true
+    return true;
 };
