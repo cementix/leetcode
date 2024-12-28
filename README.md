@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/cementix/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/cementix/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cementix/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/cementix/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cementix/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cementix/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Greedy
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
