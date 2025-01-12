@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/cementix/leetcode/tree/master/0135-candy) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/cementix/leetcode/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/cementix/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Trie
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cementix/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
