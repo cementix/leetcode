@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/cementix/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cementix/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
@@ -219,9 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/cementix/leetcode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
