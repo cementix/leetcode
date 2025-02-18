@@ -189,19 +189,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/cementix/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Backtracking
 |  |
