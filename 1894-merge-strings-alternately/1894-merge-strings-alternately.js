@@ -3,29 +3,14 @@
  * @param {string} word2
  * @return {string}
  */
-var mergeAlternately = function(word1, word2) {
-    const len = Math.min(word1.length, word2.length);
+var mergeAlternately = function (word1, word2) {
     let res = '';
+    const minLen = Math.min(word1.length, word2.length);
 
-    for (let i = 0; i < len; i++) {
-        res += word1[i]
-        res += word2[i]
+    for (let i = 0; i < minLen; i++) {
+        res += word1[i] + word2[i];
     }
 
-    if (word1.length !== word2.length) {
-        let bigger
-        const diff = Math.max(word1.length, word2.length) - len
-
-        if (word1.length > word2.length) {
-            bigger = word1
-        } else {
-            bigger = word2
-        }
-
-        for (let i = bigger.length - diff; i < bigger.length; i++) {
-            res += bigger[i]
-        }
-    }
-
-    return res
+    res += word1.slice(minLen) + word2.slice(minLen);
+    return res;
 };
