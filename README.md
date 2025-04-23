@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/cementix/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/cementix/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/cementix/leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/cementix/leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/cementix/leetcode/tree/master/0682-baseball-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/cementix/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cementix/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/cementix/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/cementix/leetcode/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/cementix/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/cementix/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
