@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/cementix/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/cementix/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/cementix/leetcode/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/cementix/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
