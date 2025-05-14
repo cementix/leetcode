@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/cementix/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cementix/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/cementix/leetcode/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/cementix/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
