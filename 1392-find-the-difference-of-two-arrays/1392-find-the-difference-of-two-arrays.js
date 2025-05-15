@@ -4,21 +4,11 @@
  * @return {number[][]}
  */
 var findDifference = function (nums1, nums2) {
-    const answer = [[], []]
+    const set1 = new Set(nums1)
+    const set2 = new Set(nums2)
 
-    for (const num of nums1) {
-        if (!nums2.includes(num)
-            && !answer[0].includes(num)) {
-            answer[0].push(num)
-        }
-    }
+    const diff1 = [...set1].filter(x => !set2.has(x))
+    const diff2 = [...set2].filter(x => !set1.has(x))
 
-    for (const num of nums2) {
-        if (!nums1.includes(num)
-            && !answer[1].includes(num)) {
-            answer[1].push(num)
-        }
-    }
-
-    return answer
+    return [diff1, diff2]
 };
