@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/cementix/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/cementix/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/cementix/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/cementix/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/cementix/leetcode/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1777-determine-if-two-strings-are-close](https://github.com/cementix/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Dynamic Programming
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/cementix/leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/cementix/leetcode/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/cementix/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/cementix/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cementix/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/cementix/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/cementix/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
