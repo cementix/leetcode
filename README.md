@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/cementix/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/cementix/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/cementix/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/cementix/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/cementix/leetcode/tree/master/0520-detect-capital) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/cementix/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/cementix/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/cementix/leetcode/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/cementix/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/cementix/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/cementix/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/cementix/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
