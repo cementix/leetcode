@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/cementix/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/cementix/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
 ## Bit Manipulation
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/cementix/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Brainteaser
 |  |
 | ------- |
