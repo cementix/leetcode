@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/cementix/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/cementix/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
