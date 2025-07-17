@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/cementix/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/cementix/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/cementix/leetcode/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/cementix/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/cementix/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/cementix/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/cementix/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/cementix/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
