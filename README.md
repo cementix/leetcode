@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/cementix/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
+| [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/cementix/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/cementix/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/cementix/leetcode/tree/master/0724-find-pivot-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/cementix/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/cementix/leetcode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/cementix/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/cementix/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/cementix/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/cementix/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/cementix/leetcode/tree/master/0274-h-index) |
+| [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1777-determine-if-two-strings-are-close](https://github.com/cementix/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/cementix/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/cementix/leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/cementix/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/cementix/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cementix/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
