@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/cementix/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/cementix/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1319-unique-number-of-occurrences](https://github.com/cementix/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/cementix/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/cementix/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/cementix/leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/cementix/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cementix/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
