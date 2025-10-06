@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/cementix/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/cementix/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1018-largest-perimeter-triangle](https://github.com/cementix/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cementix/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
@@ -284,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/cementix/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,9 +339,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/cementix/leetcode/tree/master/0258-add-digits) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
