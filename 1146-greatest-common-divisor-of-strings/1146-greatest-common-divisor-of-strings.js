@@ -4,16 +4,15 @@
  * @return {string}
  */
 var gcdOfStrings = function(str1, str2) {
-    if (str1 + str2 !== str2 + str1) return ''
+    if (str1 + str2 !== str2 + str1) return ""
 
-    function gcd(a, b) {
-        while (b !== 0) {
-            [a, b] = [b, a % b]
-        }
-        return a
-    }
+    let n1 = str1.length, n2 = str2.length
 
-    const lenGCD = gcd(str1.length, str2.length)
+    let base = str1.slice(0, gcd(n1, n2))
 
-    return str1.slice(0, lenGCD)
+    return base
 };
+
+function gcd(a, b) {
+    return b === 0 ? a : gcd(b, a % b)
+}
