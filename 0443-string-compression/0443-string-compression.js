@@ -1,32 +1,25 @@
-/**
- * @param {character[]} chars
- * @return {number}
- */
-var compress = function (chars) {
-    let write = 0;
-    let read = 0;
+
+var compress = function(chars) {
+    let write = 0
+    let read = 0
 
     while (read < chars.length) {
-        let counter = 1
-        let symbol = chars[read]
+        const char = chars[read]
+        let count = 0
 
-        while (chars[read] === chars[read + 1]) {
-            counter++
+        while (read < chars.length && chars[read] === char) {
             read++
+            count++
         }
 
-        read++
+        chars[write] = char
+        write++
 
-        if (counter > 1) {
-            chars[write] = symbol
-            write++
-            for (let c of String(counter)) {
-                chars[write] = c;
-                write++;
+        if (count > 1) {
+            for (const c of String(count)) {
+                chars[write] = c
+                write++
             }
-        } else {
-            chars[write] = symbol
-            write++
         }
     }
 
