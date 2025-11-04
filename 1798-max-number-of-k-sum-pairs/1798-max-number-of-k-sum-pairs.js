@@ -1,21 +1,18 @@
-/**
- * @param {number[]} nums
- * @param {number} k
- * @return {number}
- */
 var maxOperations = function(nums, k) {
-    let counter = 0
-    const hash = {}
+    const cnt = new Map()
+    let ops = 0
 
-    for (const num of nums) {
-        const need = k - num
-        if (hash[need] > 0) {
-            counter++
-            hash[need]--
+    for (const x of nums) {
+        const need = k - x
+        const c = cnt.get(need) || 0
+
+        if (c > 0) {
+            cnt.set(need, c - 1)
+            ops++
         } else {
-            hash[num] = (hash[num] || 0) + 1
+            cnt.set(x, (cnt.get(x) || 0) + 1)
         }
     }
 
-    return counter
+    return ops
 };
