@@ -1,16 +1,20 @@
 var maxOperations = function(nums, k) {
-    const cnt = new Map()
+    nums.sort((a, b) => a - b)
+    let l = 0
+    let r = nums.length - 1
     let ops = 0
 
-    for (const x of nums) {
-        const need = k - x
-        const c = cnt.get(need) || 0
+    while (l < r) {
+        const sum = nums[l] + nums[r]
 
-        if (c > 0) {
-            cnt.set(need, c - 1)
+        if (sum === k) {
             ops++
+            l++
+            r--
+        } else if (sum < k) {
+            l++
         } else {
-            cnt.set(x, (cnt.get(x) || 0) + 1)
+            r--
         }
     }
 
