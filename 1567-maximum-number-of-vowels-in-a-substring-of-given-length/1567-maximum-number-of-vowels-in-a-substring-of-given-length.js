@@ -1,31 +1,22 @@
-/**
- * @param {string} s
- * @param {number} k
- * @return {number}
- */
 var maxVowels = function (s, k) {
-    let sum = 0
-    let vowels = 'aeiou'
+    const vowels = new Set(['a', 'e', 'i', 'o', 'u'])
+    const n = s.length
+    if (k > n) k = n
+
+    let curr = 0
 
     for (let i = 0; i < k; i++) {
-        if (vowels.includes(s[i])) {
-            sum += 1
-        }
+        if (vowels.has(s[i])) curr++
     }
 
-    let maxSum = sum
+    let ans = curr
 
-    for (let i = k; i < s.length; i++) {
-        if (vowels.includes(s[i - k])) {
-            sum -= 1
-        }
-
-        if (vowels.includes(s[i])) {
-            sum += 1
-        }
-
-        maxSum = Math.max(sum, maxSum)
+    for (let i = k; i < n; i++) {
+        if (vowels.has(s[i - k])) curr--
+        if (vowels.has(s[i])) curr++
+        if (curr > ans) ans = curr
+        if (ans === k) return k
     }
 
-    return maxSum
+    return ans
 };
