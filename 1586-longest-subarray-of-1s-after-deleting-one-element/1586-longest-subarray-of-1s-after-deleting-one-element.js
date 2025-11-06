@@ -1,26 +1,21 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
-var longestSubarray = function (nums) {
-    let left = 0
-    let maxLength = 0
-    let zeroCount = 0
+var longestSubarray = function(nums) {
+    let l = 0
+    let r = 0
+    let max = 0
+    let zeros = 0
 
-    for (let right = 0; right < nums.length; right++) {
-        if (nums[right] === 0) {
-            zeroCount++;
+    while (r < nums.length) {
+        if (nums[r] === 0) zeros++
+
+        while (zeros > 1) {
+            if (nums[l] === 0) zeros--
+            l++
         }
 
-        while (zeroCount > 1) {
-            if (nums[left] === 0) {
-                zeroCount--
-            }
-            left++
-        }
+        if (r - l > max) max = r - l
 
-        maxLength = Math.max(maxLength, right - left)
+        r++
     }
 
-    return maxLength
+    return max    
 };
