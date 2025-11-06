@@ -1,14 +1,15 @@
-/**
- * @param {number[]} gain
- * @return {number}
- */
 var largestAltitude = function(gain) {
-    let curr = 0
-    let max = 0
+    const n = gain.length
+    const prefix = new Array(n + 1).fill(0)
 
-    for (const el of gain) {
-        curr = curr + el
-        max = Math.max(curr, max)
+    let max = prefix[0]
+    
+    for (let i = 1; i < n + 1; i++) {
+        prefix[i] = prefix[i - 1] + gain[i - 1]
+    }
+
+    for (const num of prefix) {
+        max = Math.max(num, max)
     }
 
     return max
