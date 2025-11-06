@@ -3,25 +3,22 @@
  * @param {number} k
  * @return {number}
  */
-var longestOnes = function(nums, k) {
-    if (k >= nums.length) return nums.length
-    
+var longestOnes = function (nums, k) {
     let l = 0
-    let r = 1
+    let r = 0
     let max = 0
-    let count = 0
-
-    if (nums[l] === 0) count++
+    let zeros = 0
 
     while (r < nums.length) {
-        if (nums[r] === 0) count++
-        if (count > k) {
-            while (count > k) {
-                if (nums[l] === 0) count--
-                l++
-            }
+        if (nums[r] === 0) zeros++
+
+        while (zeros > k) {
+            if (nums[l] === 0) zeros--
+            l++
         }
-        max = Math.max(r - l + 1, max)
+        
+        if (r - l + 1 > max) max = r - l + 1
+
         r++
     }
 
