@@ -1,35 +1,25 @@
-/**
- * @param {number[][]} grid
- * @return {number}
- */
 var equalPairs = function (grid) {
-    const hash = {}
-    let count = 0
+    const map = {}
+    let total = 0
 
-    for (const x of grid) {
-        let row = ''
-
-        for (const num of x) {
-            row += num+','
+    for (const row of grid) {
+        let key = ''
+        for (const val of row) {
+            key += val + ','
         }
-
-        hash[row] = (hash[row] || 0) + 1
+        map[key] = (map[key] || 0) + 1
     }
 
-    for (let i = 0; i < grid[0].length; i++) {
-        let col = ''
-        for (let j = 0; j < grid.length; j++) {
-            col += grid[j][i]+','
+    for (let c = 0; c < grid[0].length; c++) {
+        let colKey = ''
+        for (let r = 0; r < grid.length; r++) {
+            colKey += grid[r][c] + ','
         }
-        console.log(col)
 
-        if (hash[col] && hash[col] > 0) {
-            count += hash[col]
-            hash[col]
+        if (map[colKey]) {
+            total += map[colKey]
         }
     }
 
-    console.log(hash)
-
-    return count
-};
+    return total
+}
