@@ -13,12 +13,8 @@ var closeStrings = function (word1, word2) {
     if (Object.keys(hash1).sort().join('') !== Object.keys(hash2).sort().join(''))
         return false
 
-    const arr1 = Object.values(hash1).sort((a, b) => a - b)
-    const arr2 = Object.values(hash2).sort((a, b) => a - b)
-
-    for (let i = 0; i < arr1.length; i++) {
-        if (arr1[i] !== arr2[i]) return false
-    }
+    if (Object.values(hash1).sort().join('') !== Object.values(hash2).sort().join(''))
+        return false
 
     return true
 };
