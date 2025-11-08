@@ -1,37 +1,25 @@
-/**
- * @param {number[]} asteroids
- * @return {number[]}
- */
 var asteroidCollision = function (asteroids) {
     const stack = []
 
-    for (const ast of asteroids) {
-        let destroyed = false
+    for (const curr of asteroids) {
+        let alive = true
 
-        while (
-            stack.length > 0
-            && stack[stack.length - 1] > 0
-            && ast < 0
-        ) {
+        while (alive && curr < 0 && stack.length && stack[stack.length - 1] > 0) {
             const top = stack[stack.length - 1]
 
-            if (Math.abs(ast) > top) {
+            if (top < -curr) {
                 stack.pop()
-                continue
-            } else if (Math.abs(ast) === top) {
+            } else if (top === -curr) {
                 stack.pop()
-                destroyed = true
-                break
+                alive = false  
             } else {
-                destroyed = true
-                break
+                alive = false
             }
         }
 
-        if (!destroyed) {
-            stack.push(ast)
+        if (alive) {
+            stack.push(curr)
         }
-
     }
 
     return stack
