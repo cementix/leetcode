@@ -2,26 +2,25 @@
  * @param {string} s
  * @return {string}
  */
-var decodeString = function (s) {
+var decodeString = function(s) {
     const stack = []
-
-    let currentStr = ''
-    let currentNum = 0
-
-    for (let char of s) {
-        if (!isNaN(char)) {
-            currentNum = currentNum * 10 + +char
-        } else if (char === '[') {
-            stack.push([currentStr, currentNum])
-            currentStr = ''
-            currentNum = 0
-        } else if (char === ']') {
-            const [prevStr, num] = stack.pop()
-            currentStr = prevStr + currentStr.repeat(num)
+    let curr = ''
+    let num = 0
+    
+    for (const ch of s) {
+        if (ch >= '0' && ch <= '9') {
+            num = num * 10 + Number(ch)
+        } else if (ch === '[') {
+            stack.push([curr, num])
+            curr = ''
+            num = 0
+        } else if (ch === ']') {
+            const [prev, k] = stack.pop()
+            curr = prev + curr.repeat(k)
         } else {
-            currentStr += char
+            curr += ch
         }
     }
 
-    return currentStr
+    return curr
 };
