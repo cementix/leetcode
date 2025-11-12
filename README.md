@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/cementix/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0904-leaf-similar-trees](https://github.com/cementix/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/cementix/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0904-leaf-similar-trees](https://github.com/cementix/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/cementix/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cementix/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0904-leaf-similar-trees](https://github.com/cementix/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
