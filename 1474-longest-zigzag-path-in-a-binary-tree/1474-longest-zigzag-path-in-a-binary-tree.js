@@ -11,23 +11,25 @@
  * @return {number}
  */
 var longestZigZag = function (root) {
-    let maxLen = 0
+    return Math.max(helper(root.left, true, 0), helper(root.right, false, 0))
+};
 
-    function dfs(node) {
-        if (!node) return [-1, -1]
+var helper = function (root, isLeft, depth) {
+    if (!root) return depth
 
-        const [leftL, leftR] = dfs(node.left)
-        const [rightL, rightR] = dfs(node.right)
-
-        const goLeft = leftR + 1
-        const goRight = rightL + 1
-
-        maxLen = Math.max(maxLen, goLeft, goRight)
-
-        return [goLeft, goRight]
+    if (isLeft) {
+        depth = Math.max(
+            depth,
+            helper(root.right, false, depth + 1),
+            helper(root.left, true, 0)
+        )
+    } else {
+        depth = Math.max(
+            depth,
+            helper(root.left, true, depth + 1),
+            helper(root.right, false, 0)
+        )
     }
 
-    dfs(root)
-
-    return maxLen
-};
+    return depth
+}
