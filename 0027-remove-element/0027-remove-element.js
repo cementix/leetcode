@@ -1,12 +1,19 @@
+/**
+ * @param {number[]} nums
+ * @param {number} val
+ * @return {number}
+ */
 var removeElement = function(nums, val) {
-    let i = 0; // Slow pointer to track the position of the non-val elements
+    let write = 0
+    let curr = 0
 
-    for (let j = 0; j < nums.length; j++) {
-        if (nums[j] !== val) {
-            nums[i] = nums[j]; // Move the non-val element to the i-th position
-            i++;
+    while (curr < nums.length) {
+        if (nums[curr] !== val) {
+            nums[write] = nums[curr]
+            write++
         }
+        curr++
     }
 
-    return i; // i will be the new length of the array without `val`
+    return write
 };
