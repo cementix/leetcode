@@ -1,13 +1,17 @@
-var majorityElement = function (nums) {
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var majorityElement = function(nums) {
+    let candidate = null
     let count = 0
-    let candidate = 0
-    
-    for (const num of nums) {
+
+    for (const n of nums) {
         if (count === 0) {
-            candidate = num
+            candidate = n
         }
 
-        count += (candidate === num) ? 1 : -1
+        count += (n === candidate) ? 1 : -1
     }
 
     return candidate
