@@ -3,37 +3,39 @@
  * @return {number}
  */
 var evalRPN = function (tokens) {
-    const numbers = []
+    const stack = []
 
     for (let i = 0; i < tokens.length; i++) {
-        if (!isNaN(Number(tokens[i]))) {
-            numbers.push(Number(tokens[i]))
-        }
-
         if (tokens[i] === '+') {
-            const number1 = numbers.pop()
-            const number2 = numbers.pop()
-            numbers.push(number2 + number1)
+            const x = stack.pop()
+            const y = stack.pop()
+            stack.push(x + y)
+            continue
         }
 
         if (tokens[i] === '-') {
-            const number1 = numbers.pop()
-            const number2 = numbers.pop()
-            numbers.push(number2 - number1)
+            const x = stack.pop()
+            const y = stack.pop()
+            stack.push(y - x)
+            continue
         }
 
         if (tokens[i] === '*') {
-            const number1 = numbers.pop()
-            const number2 = numbers.pop()
-            numbers.push(number2 * number1)
+            const x = stack.pop()
+            const y = stack.pop()
+            stack.push(x * y)
+            continue
         }
 
         if (tokens[i] === '/') {
-            const number1 = numbers.pop()
-            const number2 = numbers.pop()
-            numbers.push(Math.trunc(number2 / number1))
+            const x = stack.pop()
+            const y = stack.pop()
+            stack.push(Math.trunc(y / x))
+            continue
         }
+
+        stack.push(Number(tokens[i]))
     }
 
-    return numbers.pop()
+    return stack.pop()
 };
