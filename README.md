@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/cementix/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/cementix/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cementix/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cementix/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cementix/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/cementix/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/cementix/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/cementix/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -57,8 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/cementix/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cementix/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cementix/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -72,8 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/cementix/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cementix/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cementix/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/cementix/leetcode/tree/master/0027-remove-element) |
@@ -98,8 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/cementix/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cementix/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/cementix/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/cementix/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cementix/leetcode/tree/master/0013-roman-to-integer) |
@@ -121,8 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/cementix/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/cementix/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cementix/leetcode/tree/master/0169-majority-element) |
@@ -135,8 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/cementix/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cementix/leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/cementix/leetcode/tree/master/0120-triangle) |
@@ -150,8 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cementix/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cementix/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/cementix/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cementix/leetcode/tree/master/0055-jump-game) |
@@ -168,8 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/cementix/leetcode/tree/master/2509-minimize-xor) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/cementix/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/cementix/leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/cementix/leetcode/tree/master/0383-ransom-note) |
@@ -179,26 +180,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/cementix/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/cementix/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/cementix/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/cementix/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/cementix/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/cementix/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cementix/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/cementix/leetcode/tree/master/0014-longest-common-prefix) |
@@ -226,17 +227,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/cementix/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/cementix/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/cementix/leetcode/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cementix/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/cementix/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0061-rotate-list](https://github.com/cementix/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/cementix/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cementix/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -248,30 +249,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/cementix/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cementix/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/cementix/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/cementix/leetcode/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/cementix/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/cementix/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/cementix/leetcode/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/cementix/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/cementix/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cementix/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -281,24 +283,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cementix/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/cementix/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cementix/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cementix/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/cementix/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/cementix/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cementix/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cementix/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/cementix/leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cementix/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/cementix/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -311,8 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cementix/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cementix/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cementix/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/cementix/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -329,8 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cementix/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cementix/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cementix/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/cementix/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -342,8 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cementix/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cementix/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cementix/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cementix/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/cementix/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -356,72 +359,73 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cementix/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cementix/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0494-target-sum](https://github.com/cementix/leetcode/tree/master/0494-target-sum) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/cementix/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0969-number-of-recent-calls](https://github.com/cementix/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/cementix/leetcode/tree/master/1582-design-browser-history) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2509-minimize-xor](https://github.com/cementix/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/cementix/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/cementix/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/cementix/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/cementix/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/cementix/leetcode/tree/master/0969-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/cementix/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/cementix/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/cementix/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cementix/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cementix/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/cementix/leetcode/tree/master/0258-add-digits) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0547-number-of-provinces](https://github.com/cementix/leetcode/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/cementix/leetcode/tree/master/0830-largest-triangle-area) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/cementix/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/cementix/leetcode/tree/master/0169-majority-element) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0547-number-of-provinces](https://github.com/cementix/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/cementix/leetcode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cementix/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
