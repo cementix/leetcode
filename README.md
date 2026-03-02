@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/cementix/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/cementix/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/cementix/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cementix/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/cementix/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/cementix/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/cementix/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/cementix/leetcode/tree/master/0394-decode-string) |
