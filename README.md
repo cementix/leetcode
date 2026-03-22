@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/cementix/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/cementix/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/cementix/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/cementix/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1063-best-sightseeing-pair](https://github.com/cementix/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/cementix/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1319-unique-number-of-occurrences](https://github.com/cementix/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/cementix/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cementix/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/cementix/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
