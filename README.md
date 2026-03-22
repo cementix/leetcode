@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/cementix/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1798-max-number-of-k-sum-pairs](https://github.com/cementix/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/cementix/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/cementix/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/cementix/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/cementix/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/cementix/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/cementix/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2428-equal-row-and-column-pairs](https://github.com/cementix/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Number Theory
 | Problem Name | Difficulty |
